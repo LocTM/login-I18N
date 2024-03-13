@@ -1,4 +1,4 @@
-package com.codegym.logini18n;
+package com.codegym;
 
 import java.io.*;
 import javax.servlet.http.*;
